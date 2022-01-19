@@ -11,7 +11,7 @@ hacking purpose.
 * genome-terminal
 * cat
 * lolcat
-* shell scripting language
+* bash environment
 * jprq client side
 
 -------------------------------------------------------------------------------------------------------------------------------------------------

@@ -21,7 +21,7 @@ Installation :
 =============
 * Clone or Download the repository.
 * Unzip the zip.
-* Open a terminal in the unzipped folder namely : `jprq-customizer-main`
+* Open a terminal in the unzipped folder namely : `JPRQ-Customizer-main`
 * Now enter the following commands in the terminal :
 
 | Commands  |

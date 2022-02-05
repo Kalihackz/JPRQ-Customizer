@@ -1,4 +1,8 @@
-<img src="https://via.placeholder.com/1270x120/0d1117/fffff?text=JPRQ+Customizer" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64020453/152635291-00493253-fc71-4715-9319-f273d76a77f8.png" />
+</p>
+
+<img src="https://via.placeholder.com/1270x120/0d1117/fffff?text=Project+Title" />
 
 ```html
 JPRQ Customizer is a customizer that helps to use the JPRQ server code and make it compatible with your own 
